@@ -7,10 +7,10 @@
 
 import SwiftUI
 
-struct Shapes: View {
+struct ShapeComponent: View {
     var body: some View {
         
-        RoundedRectangle(cornerRadius: 8)
+        RoundedRectangle(cornerRadius: 8 )
             .frame(width: 300, height: 200)
         
 //        Rectangle()
@@ -33,8 +33,8 @@ struct Shapes: View {
     }
 }
 
-struct Shapes_Previews: PreviewProvider {
+struct ShapeComponent_Previews: PreviewProvider {
     static var previews: some View {
-        Shapes()
+        ShapeComponent()
     }
 }
