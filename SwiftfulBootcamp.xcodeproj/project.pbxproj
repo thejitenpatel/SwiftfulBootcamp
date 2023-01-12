@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		967C6F36296BE3D00028AA82 /* ShapeComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F35296BE3D00028AA82 /* ShapeComponent.swift */; };
+		967C6F38296C2E940028AA82 /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F37296C2E940028AA82 /* ColorBootcamp.swift */; };
+		967C6F72296FCE2F0028AA82 /* GradientComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F71296FCE2F0028AA82 /* GradientComponent.swift */; };
 		96D5FFF0296BDE2D0096B37D /* SwiftfulBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D5FFEF296BDE2D0096B37D /* SwiftfulBootcampApp.swift */; };
 		96D5FFF2296BDE2D0096B37D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D5FFF1296BDE2D0096B37D /* ContentView.swift */; };
 		96D5FFF4296BDE300096B37D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96D5FFF3296BDE300096B37D /* Assets.xcassets */; };
@@ -17,6 +19,8 @@
 
 /* Begin PBXFileReference section */
 		967C6F35296BE3D00028AA82 /* ShapeComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeComponent.swift; sourceTree = "<group>"; };
+		967C6F37296C2E940028AA82 /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
+		967C6F71296FCE2F0028AA82 /* GradientComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientComponent.swift; sourceTree = "<group>"; };
 		96D5FFEC296BDE2D0096B37D /* SwiftfulBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D5FFEF296BDE2D0096B37D /* SwiftfulBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulBootcampApp.swift; sourceTree = "<group>"; };
 		96D5FFF1296BDE2D0096B37D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 				96D5FFF5296BDE300096B37D /* Preview Content */,
 				96D5FFFD296BDF060096B37D /* TextComponent.swift */,
 				967C6F35296BE3D00028AA82 /* ShapeComponent.swift */,
+				967C6F37296C2E940028AA82 /* ColorBootcamp.swift */,
+				967C6F71296FCE2F0028AA82 /* GradientComponent.swift */,
 			);
 			path = SwiftfulBootcamp;
 			sourceTree = "<group>";
@@ -143,8 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				967C6F38296C2E940028AA82 /* ColorBootcamp.swift in Sources */,
 				96D5FFFE296BDF060096B37D /* TextComponent.swift in Sources */,
 				96D5FFF2296BDE2D0096B37D /* ContentView.swift in Sources */,
+				967C6F72296FCE2F0028AA82 /* GradientComponent.swift in Sources */,
 				96D5FFF0296BDE2D0096B37D /* SwiftfulBootcampApp.swift in Sources */,
 				967C6F36296BE3D00028AA82 /* ShapeComponent.swift in Sources */,
 			);
