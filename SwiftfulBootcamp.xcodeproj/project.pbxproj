@@ -10,6 +10,9 @@
 		967C6F36296BE3D00028AA82 /* ShapeComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F35296BE3D00028AA82 /* ShapeComponent.swift */; };
 		967C6F38296C2E940028AA82 /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F37296C2E940028AA82 /* ColorBootcamp.swift */; };
 		967C6F72296FCE2F0028AA82 /* GradientComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F71296FCE2F0028AA82 /* GradientComponent.swift */; };
+		967C6F75296FD0FD0028AA82 /* IconsComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F74296FD0FD0028AA82 /* IconsComponent.swift */; };
+		967C6F77296FD2C60028AA82 /* ImageComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F76296FD2C60028AA82 /* ImageComponent.swift */; };
+		967C6F7929700E5B0028AA82 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967C6F7829700E5B0028AA82 /* StateBootcamp.swift */; };
 		96D5FFF0296BDE2D0096B37D /* SwiftfulBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D5FFEF296BDE2D0096B37D /* SwiftfulBootcampApp.swift */; };
 		96D5FFF2296BDE2D0096B37D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D5FFF1296BDE2D0096B37D /* ContentView.swift */; };
 		96D5FFF4296BDE300096B37D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96D5FFF3296BDE300096B37D /* Assets.xcassets */; };
@@ -21,6 +24,9 @@
 		967C6F35296BE3D00028AA82 /* ShapeComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeComponent.swift; sourceTree = "<group>"; };
 		967C6F37296C2E940028AA82 /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
 		967C6F71296FCE2F0028AA82 /* GradientComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientComponent.swift; sourceTree = "<group>"; };
+		967C6F74296FD0FD0028AA82 /* IconsComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsComponent.swift; sourceTree = "<group>"; };
+		967C6F76296FD2C60028AA82 /* ImageComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageComponent.swift; sourceTree = "<group>"; };
+		967C6F7829700E5B0028AA82 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		96D5FFEC296BDE2D0096B37D /* SwiftfulBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D5FFEF296BDE2D0096B37D /* SwiftfulBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulBootcampApp.swift; sourceTree = "<group>"; };
 		96D5FFF1296BDE2D0096B37D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -67,6 +73,9 @@
 				967C6F35296BE3D00028AA82 /* ShapeComponent.swift */,
 				967C6F37296C2E940028AA82 /* ColorBootcamp.swift */,
 				967C6F71296FCE2F0028AA82 /* GradientComponent.swift */,
+				967C6F74296FD0FD0028AA82 /* IconsComponent.swift */,
+				967C6F76296FD2C60028AA82 /* ImageComponent.swift */,
+				967C6F7829700E5B0028AA82 /* StateBootcamp.swift */,
 			);
 			path = SwiftfulBootcamp;
 			sourceTree = "<group>";
@@ -152,8 +161,11 @@
 				967C6F38296C2E940028AA82 /* ColorBootcamp.swift in Sources */,
 				96D5FFFE296BDF060096B37D /* TextComponent.swift in Sources */,
 				96D5FFF2296BDE2D0096B37D /* ContentView.swift in Sources */,
+				967C6F75296FD0FD0028AA82 /* IconsComponent.swift in Sources */,
 				967C6F72296FCE2F0028AA82 /* GradientComponent.swift in Sources */,
+				967C6F77296FD2C60028AA82 /* ImageComponent.swift in Sources */,
 				96D5FFF0296BDE2D0096B37D /* SwiftfulBootcampApp.swift in Sources */,
+				967C6F7929700E5B0028AA82 /* StateBootcamp.swift in Sources */,
 				967C6F36296BE3D00028AA82 /* ShapeComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
